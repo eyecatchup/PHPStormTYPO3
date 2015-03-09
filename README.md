@@ -12,7 +12,7 @@ The settings directory is located:
 * For Linux and idea ultimate: `~/.IntelliJIdea14/config/templates`
 * For Windows and PHPStorm 7: `%USERPROFILE%\.WebIde70\config\templates`
 * For Windows and PHPStorm 8: `%USERPROFILE%\.WebIde80\config\templates`
-* 
+
 HowTo use it
 ============
 
