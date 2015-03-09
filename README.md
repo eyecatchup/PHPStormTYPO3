@@ -10,8 +10,9 @@ The settings directory is located:
 * For Mac and PHPStorm 7: `~/Library/Preferences/WebIde70/Templates`
 * For Mac and PHPStorm 8: `~/Library/Preferences/WebIde80/Templates`
 * For Linux and idea ultimate: `~/.IntelliJIdea14/config/templates`
-* For Windows and PHPStorm 7: -- not known, tell me if you know it --
-
+* For Windows and PHPStorm 7: `%USERPROFILE%\.WebIde70\config\templates`
+* For Windows and PHPStorm 8: `%USERPROFILE%\.WebIde80\config\templates`
+* 
 HowTo use it
 ============
 
